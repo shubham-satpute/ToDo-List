@@ -1,0 +1,29 @@
+.active{
+ 
+    color: red;
+}
+
+ main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin-top: 10rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style:none;
+}
+
+nav{
+    width:55rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     
+}
